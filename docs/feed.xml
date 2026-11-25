@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dlssg-to-xefg Universal XeSS FrameGen DX12 Wrapper Release Feed</title>
+  <link href="https://Bianchi61.github.io/dlssg-to-xefg-universal-wrapper/feed.xml" rel="self"/>
+  <link href="https://Bianchi61.github.io/dlssg-to-xefg-universal-wrapper/"/>
+  <updated>2026-11-25T16:36:53Z</updated>
+  <id>https://Bianchi61.github.io/dlssg-to-xefg-universal-wrapper/</id>
+  <entry>
+    <title>dlssg-to-xefg Universal XeSS FrameGen DX12 Wrapper v3.2.2 Portable Release</title>
+    <link href="https://github.com/Bianchi61/dlssg-to-xefg-universal-wrapper/releases/download/v3.2.2/dlssg-to-xefg-universal-wrapper-v3.2.2-win64.zip"/>
+    <id>https://Bianchi61.github.io/dlssg-to-xefg-universal-wrapper/#v3.2.2</id>
+    <updated>2026-11-25T16:36:53Z</updated>
+    <summary>dlssg-to-xefg Universal XeSS FrameGen DX12 Wrapper v3.2.2: Native Windows 10/11 (x64) studio environment with pre-configured plugins, codecs.</summary>
+  </entry>
+</feed>

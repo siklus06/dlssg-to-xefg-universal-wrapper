@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(dlssg_to_xefg_universal_wrap LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(include)
+add_executable(dlssg_to_xefg_universal_wrap src/dlssg_to_xefg_universal_wrap_core.cpp)

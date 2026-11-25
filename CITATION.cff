@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "dlssg-to-xefg Universal XeSS FrameGen DX12 Wrapper"
+abstract: "dlssg-to-xefg Universal XeSS FrameGen DX12 Wrapper v3.2.2: Native Windows 10/11 (x64) studio environment with pre-configured plugins, codecs."
+authors:
+  - alias: "Bianchi61"
+    name: "Bianchi61"
+version: "3.2.2"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/Bianchi61/dlssg-to-xefg-universal-wrapper"
+url: "https://Bianchi61.github.io/dlssg-to-xefg-universal-wrapper/"

